@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: http://buidl.tv/
-about: I am freelance developer. Currently doing more in backend, focused in Python and Django.
-disqus_shortname: stackproblems
+title: BUIDL
+description: 最性感的区块链媒体
+author: 六哥何宇清
+github: http://www.buidl.tv
+about: 近年来随着比特币、以太坊的火爆市场走势，加密货币及其背后的区块链技术逐渐走进公众的视野。【BUIDL】栏目将采用谈话、聊天、访谈等形式，轻松愉快，由浅入深的为大家介绍区块链技术，及其应用案例，以及有代表性的加密货币，区块链项目，有趣的DAPP等，并有投资专家为大家解读市场走势。这是一个美好而又富有机遇和挑战的时代，让我们一起做这个时代的弄潮儿！！！
+disqus_shortname: BUIDL
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -19,27 +19,27 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/bbihyq"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "#"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "#"
 
 share:
   twitter_username: agusmakmun6
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
+    - text: 关于我们
       url: /about/
-    - text: My Projects
+    - text: 项目介绍
       url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "http://buidl.tv/"
+url: "http://www.buidl.tv"
 baseurl: ""
 paginate: 20
 per_page: 20
