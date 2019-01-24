@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+BUIDL采用谈话、聊天、访谈等形式，轻松愉快，由浅入深的为大家介绍区块链技术，及其应用案例，以及有代表性的加密货币，区块链项目，有趣的DAPP等，并有投资专家为大家解读市场走势。这是一个美好而又富有机遇和挑战的时代，让我们一起做这个时代的弄潮儿！！！
 
-email: agus[at]python.web.id
+email: airwe[at]126.com
