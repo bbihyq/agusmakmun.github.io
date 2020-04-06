@@ -9,4 +9,4 @@ categories: [others]
 
 什么是舍己从人，什么叫无为，什么是一拳一生……跟随太极传人何宇清 的脚步，打开“壹太极”的大门，走进太极拳的世界，体悟太极拳在每个阶段带来的不同感受。
 
-<iframe src="//player.bilibili.com/player.html?aid=9005860&bvid=BV1wx411C7LD&cid=14871611&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=9005860&bvid=BV1wx411C7LD&cid=14871611&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="600px" height="400px"> </iframe>
