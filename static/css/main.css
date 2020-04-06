@@ -1,10 +1,10 @@
 body {
-  font-family: "PingFang SC","微软雅黑","Microsoft YaHei",Helvetica,"Helvetica Neue",Tahoma,Arial,sans-serif;
+  font-family: "微软雅黑","Microsoft YaHei",Helvetica,"Helvetica Neue",Tahoma,Arial,sans-serif;
   background: url("/static/img/subtle_dots.png");
-  line-height: 1.5em;
+  line-height: 2em;
   font-weight: 300;
   font-size: 16px;
-  color: #666;
+  color: #333;
 }
 hr {
   margin-top: 20px;
