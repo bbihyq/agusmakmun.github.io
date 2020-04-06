@@ -83,9 +83,9 @@ footer {
 
 /* Left column */
 div.col-sm-3 {
-  margin-top: 100px;
-  font-size: 11px;
-  color: #666;
+  margin-top: 50px;
+  font-size: 14px;
+  color: #333;
 }
 div.col-sm-3 strong {
   font-size: 16px;
