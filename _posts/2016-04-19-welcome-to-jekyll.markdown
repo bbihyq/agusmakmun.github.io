@@ -12,7 +12,7 @@ categories: [jekyll]
 <h3>我的2019书单</h3>
 （前面一些部分是中国改革四君子之一、著名经济学家朱嘉明老师的春节阅读书单）：
 
-![Profile Image](/assets/images/shuhuaji.jpg)
+![Profile Image](https://bbihyq.github.io/assets/images/shuhuaji.jpg)
 
 1、《通胀螺旋》 张嘉璈
 
