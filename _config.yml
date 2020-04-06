@@ -32,7 +32,7 @@ urls:
     - text: RSS订阅
       url: /feed.xml
 
-url: "https://buidl.tv/"
+url: "https://www.aire.com/"
 baseurl: ""
 paginate: 20
 per_page: 20
