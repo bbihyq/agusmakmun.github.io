@@ -2,7 +2,7 @@
 layout: post
 title:  "个人品牌思考：2010年前每个人都应该问自己3个问题"
 date:   2009-11-03 19:19:21 +0700
-categories: [bash]
+categories: [others]
 ---
 
 
